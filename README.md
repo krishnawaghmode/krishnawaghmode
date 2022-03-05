@@ -1,6 +1,4 @@
 ## <h2 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Hey! I'm Krishna. Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-
 ## <h1 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 10px; font-size: 20px">I'm a passionate self-taught Full Stack Web Developer 🚀 from India</h1>
 
 <br/>
