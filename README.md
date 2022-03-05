@@ -1,19 +1,11 @@
 ## <h2 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Hey! I'm Krishna. Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center">
-  <a href="https://tampm.com" target="_blank">
-    <img alt="gmail" height="25px" src="https://img.shields.io/website?label=tampm.com&style=for-the-badge&url=https%3A%2F%2Ftampm.com" />
-  </a>
-  <a href="https://github.com/tampm92" target="_blank">
-    <img alt="visitor badge" height="25px" src="https://visitor-badge.glitch.me/badge?page_id=tampm92.tampm92" />
-  </a>
-</p>
 
 ## <h1 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 10px; font-size: 20px">I'm a passionate self-taught Full Stack Web Developer 🚀 from India</h1>
 
 <br/>
 
-<!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
   
 ### **🌈 Talking about Personal Stuffs:**
 
