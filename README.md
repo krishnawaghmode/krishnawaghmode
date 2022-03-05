@@ -21,8 +21,10 @@
 <!--
 <a href="skype:toilatoi911992?chat" target="_blank">
   <img alt="gmail" height="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />
-</a>-->
-<br>
+</a> -->
+
+<br/>
+
 ### **🔥 Languages and Tools:**
 
 
