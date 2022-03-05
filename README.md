@@ -23,10 +23,9 @@
 
 <br/>
 
-```php
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```console
+foo@bar:~$ whoami
+foo
 ```
 
 ### **🔥 Languages and Tools:**
