@@ -52,16 +52,15 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
-
+<!--
 <details>
   <summary style="font-weight: bold; margin-bottom: 10px; font-size: 18px">✨ More informations</summary>
 
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tampm92&show_icons=true&locale=en&layout=compact" alt="tampm92 GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=tampm92&show_icons=true&locale=en" alt="tampm92 GitHub Stats" />
-  </div>
+   </div>
 </details>
+-->
 
 
 [linkedin]: https://www.linkedin.com/in/krishna-waghmode-28286120a/
