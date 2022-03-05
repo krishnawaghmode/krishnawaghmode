@@ -18,11 +18,11 @@
 
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
-
+<!--
 <a href="skype:toilatoi911992?chat" target="_blank">
   <img alt="gmail" height="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />
-</a>
-
+</a>-->
+<br>
 ### **🔥 Languages and Tools:**
 
 
