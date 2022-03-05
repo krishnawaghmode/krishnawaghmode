@@ -1,4 +1,4 @@
-## <h2 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Hey! I'm Tam. Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+## <h2 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Hey! I'm Krishna. Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://tampm.com" target="_blank">
@@ -9,16 +9,15 @@
   </a>
 </p>
 
-## <h1 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 10px; font-size: 20px">I'm a passionate self-taught Full Stack Web Developer 🚀 from Viet Nam</h1>
+## <h1 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 10px; font-size: 20px">I'm a passionate self-taught Full Stack Web Developer 🚀 from India</h1>
 
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   
 ### **🌈 Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Im a senior web developer with more than 6 years of software development experience.
-- ⚡ You can also check out my portfolio at [tampm.com][website]
+- 👨🏽‍💻 I'm Web Developer, working at Piton Systems Pvt. Ltd. I'm a coding passionate focused on JavaScript, specifically Laravel & CakePHP. Interested in Coding, tech OpenSource
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything, I am happy to help
 
@@ -77,7 +76,7 @@
 
 [website]: https://tampm.com
 [twitter]: https://twitter.com/tamphan1992
-[linkedin]: https://linkedin.com/in/tampm
+[linkedin]: https://www.linkedin.com/in/krishna-waghmode-28286120a/
 [upwork]: https://www.upwork.com/o/profiles/users/~01f18e2f7018c8ba95/
 [gmail]: mailto:phanminhtam1992@gmail.com
 [skype]: skype:toilatoi911992?chat
