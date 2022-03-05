@@ -15,11 +15,13 @@
 
 ### **🤙 How to reach me:**
 
-
+[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/upwork.svg" />][upwork]
+[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />][twitter]
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
-
-
+<a href="skype:toilatoi911992?chat" target="_blank">
+  <img alt="gmail" height="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />
+</a>
 
 ### **🔥 Languages and Tools:**
 
@@ -63,6 +65,9 @@
 </details>
 -->
 
-[linkedin]: https://www.linkedin.com/in/krishna-waghmode-28286120a/
-[gmail]: mailto:kwaghmode62@gmail.com
-
+[website]: https://tampm.com
+[twitter]: https://twitter.com/tamphan1992
+[linkedin]: https://linkedin.com/in/tampm
+[upwork]: https://www.upwork.com/o/profiles/users/~01f18e2f7018c8ba95/
+[gmail]: mailto:phanminhtam1992@gmail.com
+[skype]: skype:toilatoi911992?chat
