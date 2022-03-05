@@ -38,6 +38,7 @@ foo
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
+[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][website]
 [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/laravel/laravel-plain.svg" />][website]
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/ubuntu/ubuntu-plain-wordmark.svg" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />][website]
