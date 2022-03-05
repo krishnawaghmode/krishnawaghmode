@@ -66,6 +66,6 @@
   </div>
 </details>
 
-<!--[website]: https://tampm.com -->
+
 [linkedin]: https://www.linkedin.com/in/krishna-waghmode-28286120a/
 [gmail]: mailto:kwaghmode62@gmail.com
