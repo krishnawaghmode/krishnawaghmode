@@ -35,6 +35,7 @@ foo
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />][website]
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" />][website]
+[<img align="left" alt="NuxtJs" width="26px" src="https://raw.githubusercontent.com/nuxt/nuxt.js/dev/.github/nuxt.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
