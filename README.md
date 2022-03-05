@@ -22,11 +22,11 @@
 </a> -->
 
 <br/>
-
+<!--
 ```console
 foo@bar:~$ whoami
 foo
-```
+```-->
 
 ### **🔥 Languages and Tools:**
 
