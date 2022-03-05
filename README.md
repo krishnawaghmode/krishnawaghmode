@@ -20,6 +20,7 @@
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
 
 
+
 ### **🔥 Languages and Tools:**
 
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" />][website]
@@ -40,10 +41,10 @@
 
 <br/>
 <br/>
-
+<!--
 ### **📕 Latest Blog Posts**
 
-<!-- BLOG-POST-LIST:START -->
+ BLOG-POST-LIST:START 
 - [Setup firebase for Next JS](http://tampm.com/blog/next-js/setup-firebase-for-next-js)
 - [NextJS import SVG](http://tampm.com/blog/next-js/next-js-import-svg)
 - [Next-Auth](http://tampm.com/blog/next-js/next-auth)
@@ -62,6 +63,6 @@
 </details>
 -->
 
-
 [linkedin]: https://www.linkedin.com/in/krishna-waghmode-28286120a/
 [gmail]: mailto:kwaghmode62@gmail.com
+
