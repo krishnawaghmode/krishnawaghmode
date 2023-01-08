@@ -7,7 +7,7 @@
   
 ### **🌈 Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm Web Developer, working at Piton Systems Pvt. Ltd. I'm a coding passionate focused on JavaScript, specifically Laravel. Interested in Coding, tech OpenSource
+- 👨🏽‍💻 I'm Web Developer, working at Softomatic. I'm a coding passionate focused on JavaScript, specifically Laravel. Interested in Coding, tech OpenSource
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything, I am happy to help
 
